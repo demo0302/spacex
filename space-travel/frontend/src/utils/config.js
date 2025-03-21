@@ -1,2 +1,2 @@
-const BASE_URL = "http://localhost:8000/api/v1";
+const BASE_URL = "https://spacex-bela.onrender.com";
 export { BASE_URL };
