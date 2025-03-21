@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Lunar Expedition",
+    "city": "Moon Base Alpha",
+    "address": "Sea of Tranquility, Moon",
+    "distance": 384400,
+    "price": 5000000,
+    "maxGroupSize": 5,
+    "desc": "Experience the breathtaking views of Earth from the Moon and walk in zero gravity.",
+    "reviews": [],
+    "photo": "/space-images/moon-expedition.jpg",
+    "featured": true
+  },
+  {
+    "title": "Mars Adventure",
+    "city": "Olympus Mons Base",
+    "address": "Tharsis Region, Mars",
+    "distance": 225000000,
+    "price": 15000000,
+    "maxGroupSize": 10,
+    "desc": "Explore the highest volcano in the solar system and experience the red planet like never before.",
+    "reviews": [],
+    "photo": "/space-images/mars-adventure.jpg",
+    "featured": true
+  },
+  {
+    "title": "Titan Submersible Voyage",
+    "city": "Kraken Mare Research Station",
+    "address": "Titan, Saturn's Moon",
+    "distance": 1400000000,
+    "price": 25000000,
+    "maxGroupSize": 6,
+    "desc": "Dive into Titan's methane lakes and witness extraterrestrial landscapes.",
+    "reviews": [],
+    "photo": "/space-images/titan-voyage.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jupiter's Floating Observatory",
+    "city": "Zeus Cloud Base",
+    "address": "Great Red Spot, Jupiter",
+    "distance": 778500000,
+    "price": 20000000,
+    "maxGroupSize": 8,
+    "desc": "Hover over Jupiter’s swirling storms in a high-tech floating research station.",
+    "reviews": [],
+    "photo": "/space-images/jupiter-station.jpg",
+    "featured": true
+  },
+  {
+    "title": "Saturn Ring Dive",
+    "city": "Cassini Spaceport",
+    "address": "Outer Rings, Saturn",
+    "distance": 1400000000,
+    "price": 30000000,
+    "maxGroupSize": 4,
+    "desc": "Fly through Saturn’s stunning ice rings in an advanced zero-gravity spacecraft.",
+    "reviews": [],
+    "photo": "/space-images/saturn-rings.jpg",
+    "featured": true
+  },
+  {
+    "title": "Voyager Deep Space Journey",
+    "city": "Edge of the Solar System",
+    "address": "Voyager 1 Trajectory",
+    "distance": 22000000000,
+    "price": 50000000,
+    "maxGroupSize": 2,
+    "desc": "Leave the solar system and witness the interstellar void up close.",
+    "reviews": [],
+    "photo": "/space-images/deep-space.jpg",
+    "featured": true
+  },
+  {
+    "title": "Alpha Centauri Mission",
+    "city": "Proxima Base",
+    "address": "Alpha Centauri Star System",
+    "distance": 41000000000000,
+    "price": 100000000,
+    "maxGroupSize": 12,
+    "desc": "Be among the first humans to travel to another star system and explore its exoplanets.",
+    "reviews": [],
+    "photo": "/space-images/alpha-centauri.jpg",
+    "featured": true
+  },
+  {
+    "title": "Andromeda Galaxy Expedition",
+    "city": "M31 Observation Deck",
+    "address": "Andromeda Galaxy",
+    "distance": 2500000,
+    "price": 500000000,
+    "maxGroupSize": 20,
+    "desc": "Embark on a once-in-a-lifetime journey to our neighboring galaxy aboard the Starliner.",
+    "reviews": [],
+    "photo": "/space-images/andromeda-expedition.jpg",
+    "featured": true
+  },
+  {
+    "title": "Pluto Ice Trek",
+    "city": "New Horizons Outpost",
+    "address": "Tombaugh Region, Pluto",
+    "distance": 5900000000,
+    "price": 18000000,
+    "maxGroupSize": 5,
+    "desc": "Experience Pluto’s icy mountains and mysterious heart-shaped plains up close.",
+    "reviews": [],
+    "photo": "/space-images/pluto-expedition.jpg",
+    "featured": false
+  },
+  {
+    "title": "Neptune Storm Chasing",
+    "city": "Poseidon Research Hub",
+    "address": "Neptune’s Great Dark Spot",
+    "distance": 4500000000,
+    "price": 22000000,
+    "maxGroupSize": 6,
+    "desc": "Witness the most powerful storms in the solar system while floating in Neptune’s atmosphere.",
+    "reviews": [],
+    "photo": "/space-images/neptune-storm.jpg",
+    "featured": false
+  }
+]

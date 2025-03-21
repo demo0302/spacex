@@ -1,0 +1,14 @@
+.testimonial p {
+  color: #afe1fd; /* White text for a space/dark theme */
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.testimonial h6 {
+  color: #01b7ff; /* Primary accent color */
+  font-weight: 600;
+}
+
+.testimonial p:last-child {
+  color: #3584fa; /* Secondary accent color */
+}

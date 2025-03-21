@@ -1,0 +1,88 @@
+/* General Container */
+.about-container {
+  background: linear-gradient(to bottom, #020024, #090979, #46008c, #170f23) !important;
+  padding: 4rem 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Content Wrapper */
+.about-content {
+  max-width: 800px;
+  text-align: center;
+}
+
+/* Title Styling */
+.about-title {
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 1rem;
+}
+
+/* Description Text */
+.about-description {
+  font-size: 1.2rem;
+  color: #8dc0fa;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+/* Highlighted Text */
+.highlight {
+  color: #007bff;
+  font-weight: 600;
+}
+
+/* Section Wrapper */
+.about-section {
+  background: #f9f9f9;
+  padding: 2rem;
+  border-radius: 10px;
+  margin-top: 2rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Section Titles */
+.section-title {
+  font-size: 1.8rem;
+  color: #222;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+/* List Styling */
+.about-list {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+  font-size: 1.1rem;
+  color: #444;
+}
+
+.about-list li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 0.8rem;
+}
+
+/* Button Styling */
+.about-button {
+  margin-top: 1rem;
+  padding: 12px 24px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.about-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
