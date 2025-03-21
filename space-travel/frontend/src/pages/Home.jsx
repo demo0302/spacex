@@ -16,6 +16,8 @@ import NewsLetter from '../shared/NewsLetter.jsx'
 
 const Home = () => {
    return <>
+
+
       {/* ========== HERO SECTION ========== */}
       <section>
          <Container>
